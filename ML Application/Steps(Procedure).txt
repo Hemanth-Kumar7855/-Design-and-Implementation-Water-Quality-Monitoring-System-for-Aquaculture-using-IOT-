@@ -1,0 +1,18 @@
+Inside the Ml application folder create an virtual environment and install some of the libraries then 
+activate the activate.bat file
+
+
+1.python -m venv venv
+2. venv\Scripts\activate.bat
+3. pip install flask
+4. python app.py
+If any lib not installed install.
+1. pip install numpy
+2. pip install pandas
+3. pip install scikit-learn
+
+everytime Execution steps: 
+1. python -m venv venv
+2. venv\Scripts\activate.bat
+3. pip install flask
+4. python app.py
